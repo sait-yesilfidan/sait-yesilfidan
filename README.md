@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sait-yesilfidan
 - 👀 I'm interested in web programing
-- 🌱 I’m currently learning PDO
+- 🌱 I’m currently learning WEBRTC
 
 
 <!---
