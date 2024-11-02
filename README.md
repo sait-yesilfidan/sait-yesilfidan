@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sait-yesilfidan
-- 👀 I'm interested in web programing, FX, and Animation
-- 🌱 I’m currently learning Abobe After Effects, Premiere Pro, Animate, Illutrator, Photoshop and PHP
+- 👀 I'm interested in web programing, FX, and Animation, 3D Modeling
+- 🌱 I’m currently learning Abobe After Effects, Premiere Pro, Animate, Illutrator, Photoshop, Game Design, Game Game Motors and PHP
 - 
 
 
