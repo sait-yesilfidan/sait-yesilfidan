@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @sait-yesilfidan
-- 👀 I'm interested in web programing
-- 🌱 I’m currently learning WEBRTC
+- 👀 I'm interested in web programing, FX, and Animation
+- 🌱 I’m currently learning Abobe After Effects, Premiere Pro, Animate, Illutrator, Photoshop and PHP
+- 
 
 
 <!---
